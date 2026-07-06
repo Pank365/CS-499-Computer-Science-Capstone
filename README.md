@@ -1,10 +1,8 @@
-# Vacation Booking Application Enhancement
+# Computer Science Capstone Portfolio
 
 ## Project Overview
 
-This repository contains my Computer Science Capstone project completed as part of the Bachelor of Science in Software Engineering program at Southern New Hampshire University.
-
-For this project, I enhanced an existing Vacation Booking Application by improving the user experience, strengthening authentication, integrating a MongoDB database, and implementing RESTful API functionality. The project demonstrates my ability to analyze existing software, implement enhancements, troubleshoot issues, and deliver a functional application using modern software engineering practices.
+This repository contains my Computer Science Capstone completed at Southern New Hampshire University. Rather than developing a single application, this capstone demonstrates my ability to analyze, enhance, and improve software across three core areas of computer science: software engineering and design, algorithms and data structures, and database systems. The included artifacts showcase practical experience with secure coding, RESTful APIs, MongoDB, software testing, debugging, and technical documentation.
 
 ---
 
